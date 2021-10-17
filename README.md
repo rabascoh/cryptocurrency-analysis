@@ -5,13 +5,6 @@ The purpose of this analysis is to determine what cryptocurrencies are on the tr
 
 ## Results
 
-**Tradable Cryptocurrencies**
-![hvplot.table]()
-
-**Total Number of Tradable Cryptocurrencies**
-N
-
-**Clusters Visualization**
-![hvplot.scatter]()
+See the results [here](https://github.com/rabascoh/cryptocurrency-analysis/blob/main/crypto_clustering.ipynb). 
 
 
